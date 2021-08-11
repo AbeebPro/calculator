@@ -26,6 +26,8 @@ button{
 	background-color: #fff;
 	border: none;
 	font-size: 1.3rem;
+	outline: none;
+	border: none;
 }
 
 button.equal-to{
